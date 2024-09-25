@@ -2,13 +2,22 @@
 
 I am a student of Data Science (Master degree).
 
-💡 Currently working on: [*Rethinking Encoder Warmstart*](https://github.com/azoz01/rethinking_encoder_warmstart).
+💡 Currently working on: 
+* ~~[*Rethinking Encoder Warmstart*](https://github.com/azoz01/rethinking_encoder_warmstart), usage of tabular representation for Bayesian Opitmization~~ (done, presented on Workshop track on AutoML24!!)
+* [*adaptivee*](https://github.com/DawidPludowski/adaptivee), dynamic recommendation of optimal weights in ensembles (under review for TRL under Neurips...)
+* *hellsemble*, developed by student research group, Koło Naukowe AutoML (private so far!)
 
 📔 My interests:
 
 * AutoML
+* Tabular representations (e.g., D2V) and their usage in AutoML
 * XAI
 * Statistic in ML
+
+👥 my affiliations:
+* [MI2](https://www.mi2.ai/) lab (researcher/software engineer)
+* Warsaw University of Technology (Master studies)
+* Koło Naukowe AutoML (AutoML student research group)
 
 📣 Reach me on:
 
